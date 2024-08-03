@@ -1,2 +1,2 @@
 # lab-java-basico
-Repositorio para armazenar todo código do curso do Java básico
+Repositorio para armazenar todo o conteudo do curso de Java básico
